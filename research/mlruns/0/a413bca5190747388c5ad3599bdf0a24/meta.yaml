@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahulmahajan/Desktop/Projects/502_Chest_disease/research/mlruns/0/a413bca5190747388c5ad3599bdf0a24/artifacts
+end_time: 1709917498951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a413bca5190747388c5ad3599bdf0a24
+run_name: gifted-shark-696
+run_uuid: a413bca5190747388c5ad3599bdf0a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709917492795
+status: 3
+tags: []
+user_id: rahulmahajan

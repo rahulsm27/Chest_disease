@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahulmahajan/Desktop/Projects/502_Chest_disease/research/mlruns/0/d513f4a6b67040958bbe4f8a9399570d/artifacts
+end_time: 1709917932017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d513f4a6b67040958bbe4f8a9399570d
+run_name: gregarious-asp-329
+run_uuid: d513f4a6b67040958bbe4f8a9399570d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709917924891
+status: 3
+tags: []
+user_id: rahulmahajan
